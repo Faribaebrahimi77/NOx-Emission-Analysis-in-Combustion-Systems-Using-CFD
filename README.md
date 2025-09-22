@@ -4,7 +4,7 @@ Comprehensive CFD analysis of NOx formation and emission characteristics in comb
 
 <img width="399" height="75" alt="image" src="https://github.com/user-attachments/assets/a344072f-0353-45d6-afa5-367009d32334" />
 
-🔥 Experimental Configuration - Flame A
+# Experimental Configuration - Flame A
 Jet Flame Setup
 
 Flame Type: Turbulent non-premixed jet flame
@@ -67,36 +67,36 @@ Temperature Effects: Flame temperature variation and NOx correlation
 Residence Time: Mixing and reaction time effects on NOx formation
 Fuel Composition: Different fuel types and nitrogen content analysis
 
-📊 Key Analysis Parameters
+# Key Analysis Parameters
 Emission Characteristics
 
-✅ NOx Concentration: Spatial distribution and exit concentrations
+ NOx Concentration: Spatial distribution and exit concentrations
 
-✅ NO/NO2 Ratio: Nitrogen oxide speciation analysis
+ NO/NO2 Ratio: Nitrogen oxide speciation analysis
 
-✅ Formation Rates: Local NOx production and consumption rates
+ Formation Rates: Local NOx production and consumption rates
 
-✅ Temperature Correlation: NOx dependence on local flame temperature
+ Temperature Correlation: NOx dependence on local flame temperature
 
 Operating Parameter Effects
 
-✅ Air-Fuel Ratio: Stoichiometric vs. lean combustion impact
+ Air-Fuel Ratio: Stoichiometric vs. lean combustion impact
 
-✅ Combustion Temperature: Peak temperature effects on thermal NOx
+ Combustion Temperature: Peak temperature effects on thermal NOx
 
-✅ Mixing Quality: Turbulent mixing effects on NOx formation
+ Mixing Quality: Turbulent mixing effects on NOx formation
 
-✅ Residence Time Distribution: Reaction time availability analysis
+ Residence Time Distribution: Reaction time availability analysis
 
-Emission Control Strategies
+# Emission Control Strategies
 
-✅ Staged Combustion: Primary and secondary air injection effects
+ Staged Combustion: Primary and secondary air injection effects
 
-✅ Flue Gas Recirculation (FGR): Inert gas dilution impact
+ Flue Gas Recirculation (FGR): Inert gas dilution impact
 
-✅ Low NOx Burner Design: Optimized mixing and temperature control
+ Low NOx Burner Design: Optimized mixing and temperature control
 
-✅ Fuel Modification: Alternative fuels and additives assessment
+ Fuel Modification: Alternative fuels and additives assessment
 
 **<img width="566" height="633" alt="image" src="https://github.com/user-attachments/assets/bc7bdcc3-8582-4a82-8721-ab071193a20d" />
 **
